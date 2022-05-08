@@ -4,10 +4,10 @@ as close as i can get to a frame1
 
 7 layers
 
-2xtop layer
+3xtop layer
 
 1xswitchplate
 
-3xmiddle layer
+2xmiddle layer
 
 1xbottom plate
