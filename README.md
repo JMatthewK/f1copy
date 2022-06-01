@@ -13,3 +13,11 @@ as close as i can get to a frame1
 2xmiddle layer
 
 1xbottom plate
+
+Dimensions:
+
+Length: 360.68mm
+
+Width: 165.10mm
+
+Height: 21mm
