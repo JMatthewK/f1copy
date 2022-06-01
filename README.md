@@ -2,7 +2,10 @@
 
 ![IMG_3639](https://user-images.githubusercontent.com/24196838/171417082-901128eb-8d1a-4980-aebf-e7eaf796b705.jpg)
 
-as close as i can get to a frame1
+
+## Description
+
+As close as i can get to a frame1. I wanted to build a very similar controller to the frame1 since it's my favorite out of all the "official" rectangles on the market. I really like the way this one turned out. The bjartcaps sound and feel so amazing, and the usb c shield covering the hole where the model U is makes the whole build seem really solid. Definitely some improvements I can make from this, the corners are kind of sharp and the screws don't look as good as if I made 10 symmetrical ones along the build. Would recommend making this one, but there's def other ones that are better than this, and who knows I might design a better one soon B)
 
 ## 7 layers of lasercut acrylic
 
