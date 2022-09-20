@@ -42,3 +42,6 @@ Wire
 7 m5 20mm screws 
 
 7 m5 tee nuts (https://www.amazon.ca/uxcell%C2%AE-30Pcs-M5x15x1-2mm-Carbon-Screw/dp/B07H57TRN4/ref=sr_1_18?crid=2LF5687G8ZG4K&keywords=uxcell+m5+tee+nut&qid=1654090847&sprefix=uxcell+%2Caps%2C48&sr=8-18)
+
+UPDATE: I ORDERED THESE SCREWS AND I LIKE THEIR LOOK A LOT BETTER (m5 20mm)
+https://www.aliexpress.com/item/1005003258556816.html?spm=a2g0o.order_list.0.0.27161802PMt7pe
